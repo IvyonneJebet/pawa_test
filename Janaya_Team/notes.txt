@@ -1,0 +1,13 @@
+linux commands 
+cd change directory
+mkdir make directory create a new folder
+ls list i.e list all items inside a folder
+pwd present working directory confirm your current path
+code . open directory on vscode
+touch <file name> creating a file
+git config --global user.email "jebetivyy@gmail.com"
+git config --global user.name="IvyonneJebet"
+git commands 
+git init
+git add <single+filename>
+git add . <all files>
