@@ -3,11 +3,17 @@ cd change directory
 mkdir make directory create a new folder
 ls list i.e list all items inside a folder
 pwd present working directory confirm your current path
-code . open directory on vscode
 touch <file name> creating a file
+code . - open directory on vscode
+clear - clearing content
+git - version control, sudo apt install git 
+
 git config --global user.email "jebetivyy@gmail.com"
 git config --global user.name="IvyonneJebet"
-git commands 
+git config --list --
+
 git init
-git add <single+filename>
-git add . <all files>
+git add <file_name> - (specific updated file)
+git add . (adding all the files)
+git commit -m "initial commit"
+git push origin master
